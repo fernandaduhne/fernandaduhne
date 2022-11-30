@@ -1,9 +1,10 @@
-# hello-world
-Passionate Data Analyst & MBA 
+# Hello! I´m Fernanda, welcome to my GitHub!
+### Im a passionate Data Analyst & MBA 
 
-📄 Know about my professional experiences: https://www.linkedin.com/in/fernandaduhne/
-👨‍💻 Check out my latest projects as a Data Analyst
+#### 📄 Feel free to check my my professional experiences: https://www.linkedin.com/in/fernandaduhne/
 
-📫 Would you like to contact me, send me an email: 
+#### 👨‍💻 These are my latest projects as a Data Analyst
+
+#### 📫 Would you like to contact me, send me an email: 
 fernanda.duhne@gmx.de
 
