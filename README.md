@@ -6,5 +6,5 @@
 #### 👨‍💻 These are my latest projects as a Data Analyst
 
 #### 📫 Would you like to contact me, send me an email: 
-fernanda.duhne@gmx.de
+- fernanda.duhne@gmx.de
 
