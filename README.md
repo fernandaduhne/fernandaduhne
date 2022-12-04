@@ -9,3 +9,6 @@
 #### 📫 Would you like to contact me, send me an email: 
 - fernanda.duhne@gmx.de
 
+P.D. Meet Bolo, my Maltipoo
+
+https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png 
