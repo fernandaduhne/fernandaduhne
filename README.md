@@ -5,6 +5,9 @@
 - https://www.linkedin.com/in/fernandaduhne/
 
 #### 👨‍💻 These are my latest projects as a Data Analyst
+- https://github.com/fernandaduhne/Analysis_subsidies_and_unemployment
+- https://github.com/fernandaduhne/NLP
+- https://github.com/fernandaduhne/Hypothesis_Testing
 
 #### 📫 Would you like to contact me, send me an email: 
 - fernanda.duhne@gmx.de
