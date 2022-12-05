@@ -8,6 +8,7 @@
 - https://github.com/fernandaduhne/Analysis_subsidies_and_unemployment
 - https://github.com/fernandaduhne/NLP
 - https://github.com/fernandaduhne/Hypothesis_Testing
+- https://github.com/fernandaduhne/Cleaning_data
 
 #### 📫 Would you like to contact me, send me an email: 
 - fernanda.duhne@gmx.de
