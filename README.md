@@ -10,7 +10,6 @@
 - [Hypothesis Testing](https://github.com/fernandaduhne/Hypothesis_Testing)
 - [Cleaning Data](https://github.com/fernandaduhne/Cleaning_data)
 
-[I'm an inline-style link](https://www.google.com)
 
 #### 📫 Would you like to contact me, send me an email: 
 - fernanda.duhne@gmx.de
