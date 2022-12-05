@@ -5,10 +5,12 @@
 - https://www.linkedin.com/in/fernandaduhne/
 
 #### 👨‍💻 These are my latest projects as a Data Analyst
-- https://github.com/fernandaduhne/Analysis_subsidies_and_unemployment
-- https://github.com/fernandaduhne/NLP
-- https://github.com/fernandaduhne/Hypothesis_Testing
-- https://github.com/fernandaduhne/Cleaning_data
+- [Do subsidies have an influence on unemployment in Berlin?](https://github.com/fernandaduhne/Analysis_subsidies_and_unemployment)
+- [Natural Language Processing](https://github.com/fernandaduhne/NLP)
+- [Hypothesis Testing](https://github.com/fernandaduhne/Hypothesis_Testing)
+- [Cleaning Data](https://github.com/fernandaduhne/Cleaning_data)
+
+[I'm an inline-style link](https://www.google.com)
 
 #### 📫 Would you like to contact me, send me an email: 
 - fernanda.duhne@gmx.de
