@@ -3,7 +3,7 @@
 
 #### 📄 Feel free to check my my professional experiences:
 - [Linkedin (English)](https://www.linkedin.com/in/fernandaduhne/)
-- [Xing (German)](https://www.xing.com/profile/Fernanda_Duhne/)
+- [Xing (Deutsch)](https://www.xing.com/profile/Fernanda_Duhne/)
 
 #### 👨‍💻 These are my latest projects as a Data Analyst
 - [Do subsidies have an influence on unemployment in Berlin?](https://github.com/fernandaduhne/Analysis_subsidies_and_unemployment)
